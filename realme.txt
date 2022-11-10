@@ -1,0 +1,4 @@
+This project aims to clean and apply certain filters to the dataset until reaching an initially projected result.
+
+
+To be able to view my conclusions, you will need to have python and jupyter labs or notebook installed on your machine, or access via the cloud
